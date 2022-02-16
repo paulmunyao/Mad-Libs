@@ -14,3 +14,5 @@ print("Hello", name + "!", "Let's see if it's time to leave this party.")
 is_awkward = str(input("Is it awkward? "))
 
 yes = is_awkward
+if ("yes"):
+    print("Yes")
