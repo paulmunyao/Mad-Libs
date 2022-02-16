@@ -1,10 +1,10 @@
 # MADLIBS GAME
 
-noun = input("Enter a word: ")
-action = input("Enter an action: ")
-verb = input("Enter a word: ")
+# noun = input("Enter a word: ")
+# action = input("Enter an action: ")
+# verb = input("Enter a word: ")
 
-print(noun + action + verb)
+# print(noun + action + verb)
 
 # A Program that uses if and else statements
 
@@ -15,6 +15,6 @@ is_awkward = str(input("Is it awkward? "))
 
 yes = is_awkward
 if ("yes"):
-    print("Yes")
+    print("Let's leave this party")
 else:
         print("No")
