@@ -10,3 +10,5 @@ print(noun + action + verb)
 
 name = str(input("Hello!What's your name?  "))
 print("Hello", name + "!", "Let's see if it's time to leave this party.")
+
+is_awkward = str(input("Is it awkward? "))
