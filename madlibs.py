@@ -7,3 +7,5 @@ verb = input("Enter a word: ")
 print(noun + action + verb)
 
 #A Program that uses if and else statements
+
+name = str(input("Hello!What's your name?  "))
