@@ -16,3 +16,5 @@ is_awkward = str(input("Is it awkward? "))
 yes = is_awkward
 if ("yes"):
     print("Yes")
+else:
+        print("No")
