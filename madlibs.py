@@ -17,4 +17,4 @@ yes = is_awkward
 if ("yes"):
     print("Let's leave this party")
 else:
-        print("No")
+        print("Let's par-tay")
