@@ -16,7 +16,6 @@ is_awkward = str(input("Is it awkward? "))
 
 if is_awkward is "yes":
     print("Let's leave this party")
-# elif "no":
-#         print("Let's stay and par-tay")
+
 else:
     print("Let's par-tay")
